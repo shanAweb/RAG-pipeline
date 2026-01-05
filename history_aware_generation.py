@@ -54,7 +54,7 @@ Please provide the clear, helpful answer using only the information from these d
 
     return answer
 def start_chat():
-    print("Ask me question, type quite to exit !!!")
+    print("Ask me question, type quit to exit !!!")
 
     while True:
         question = input("\nAsk question: ")
